@@ -1,0 +1,76 @@
+{{ if not (eq .Site.Params.dark "on") -}}
+@media (prefers-color-scheme: dark) {
+{{ end -}}
+html {
+    scrollbar-color: #6c6c6c #2e2e2e;
+}
+
+body {
+    color: #ebebeb;
+    background: #121212;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+header#banner a {
+    color: #6454de;
+}
+
+header#banner a:hover {
+    color: #800834;
+    opacity: 100%;
+    transition: 185ms;
+    text-decoration: none;
+}
+
+header#banner nav ul li a {
+    color: #5442db;
+}
+
+header#banner nav ul li a:hover {
+    color: #800834;
+    opacity: 100%;
+    transition: 185ms;
+    text-decoration: none;
+}
+
+main#content a {
+    color: #5442db;
+}
+
+main#content a:hover {
+    color: #800834;
+    opacity: 100%;
+    transition: 185ms;
+    text-decoration: none;
+}
+
+main#content p {
+    color: #f5f5f5;
+}
+
+main#content hr {
+    background: #5c5c5c;
+}
+
+main#content #toc h4 {
+    color: #d4d4d4;
+}
+
+main#content ul#posts small {
+    color: #a7a7a7;
+}
+
+main#content ul#posts li a:hover {
+    color: #800834;
+    opacity: 100%;
+    transition: 185ms;
+    text-decoration: none;
+}
+
+main#content header#post-header div {
+    color: #5442db;
+}
+{{- if not (eq .Site.Params.dark "on") -}}
+}
+{{- end -}}
