@@ -16,7 +16,7 @@ I'm am a little weary of this blog becoming an insanely cringey in hindsight, bu
 
 Here are my ideas on why blogging: 
 
-## Economics 
+### Economics
 
 It seems to me that fulfillment in life is directly proportional to the ratio of your production to your consumption. 
 
@@ -32,7 +32,8 @@ Under the hood, this is commenting on the relationship between selflessness and 
 
 This blog is my effort at improving that ratio. It's a new hobby, a way for me to document my life and bring a legacy into the world, instead of consuming YouTube shorts and gaslighting myself into thinking I'm better than TikTok users.
 
-## Nike
+### Nike
+
 
 I have an issue of constantly wanting to do something monumental, completely revolutionary, and perfect to all standards. I want to seem smart, capable, and well-put together. Refined and intellectual, too, sometimes. I need to write perfectly, I need to learn perfectly, and I need to be perfect.
 
@@ -48,7 +49,8 @@ Like most things, I can make this an iterative process. Rather than getting it "
 
 What does ["right"](https://en.wikipedia.org/wiki/Left_and_right) mean anyway?
 
-## Nuance
+### Nuance
+
 
 I'm sort of getting tired of writing lmao so I'm gonna make the next two sections a little bit shorter. These two sections were written on a different days than the first two sections, so there may be a slight deviation in tone. I read what I wrote before and it felt way too formal. 
 
@@ -64,7 +66,8 @@ When we write, we have a chance to play God a bit. Deciding not only what to wri
 
 Regardless, I'd like to use this blog to experiment with it as an art form.
 
-## Humor
+### Humor
+
 
 I got so tired of writing lmao that I'm not even gonna write this section. The whole idea of this section was about how I wanted to use this blog as a way to hide some easter eggs and be funny. I guess you'll have to find the one I hid in here :) 
 
