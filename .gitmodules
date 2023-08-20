@@ -7,4 +7,3 @@
 [submodule "public"]
 	path = public
 	url = https://github.com/vviggyy/vviggyy.github.io.git
-	branch = main
