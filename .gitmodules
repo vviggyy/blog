@@ -4,15 +4,3 @@
 [submodule "viggyblog/themes/etch"]
 	path = viggyblog/themes/etch
 	url = https://github.com/LukasJoswiak/etch.git
-[submodule "viggyblog/public"]
-	path = viggyblog/public
-	url = https://github.com/vviggyy/vviggyy.github.io.git
-	branch = main
-[submodule "public"]
-	path = public
-	url = https://github.com/vviggyy/vviggyy.github.io.git
-	branch = main
-[submodule "blog/public"]
-	path = blog/public
-	url = https://github.com/vviggyy/vviggyy.github.io.git
-	branch = main
